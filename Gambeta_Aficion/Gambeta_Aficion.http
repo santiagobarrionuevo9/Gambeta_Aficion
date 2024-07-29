@@ -1,0 +1,6 @@
+@Gambeta_Aficion_HostAddress = http://localhost:5164
+
+GET {{Gambeta_Aficion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

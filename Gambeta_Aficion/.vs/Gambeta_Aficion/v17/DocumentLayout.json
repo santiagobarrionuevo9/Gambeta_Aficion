@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\services\\impl\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:services\\impl\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\dtos\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:dtos\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\mappers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:mappers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\contextdb\\appdbcontextg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:contextdb\\appdbcontextg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\repositories\\impl\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:repositories\\impl\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\services\\interfaz\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:services\\interfaz\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\repositories\\interfaz\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:repositories\\interfaz\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|c:\\users\\santiago\\desktop\\gambeta_aficion\\gambeta_aficion\\gambeta_aficion\\models\\playerstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99AEAEC-DC6B-4F17-81A9-A5D868ED9740}|Gambeta_Aficion.csproj|solutionrelative:models\\playerstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Dtos\\PlayerDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\PlayerDTO.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Dtos\\PlayerDTO.cs",
+              "RelativeToolTip": "Dtos\\PlayerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:47:01.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Models\\Player.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Models\\Player.cs",
+              "RelativeToolTip": "Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:33:43.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "Controllers\\PlayersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:32:34.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:02:31.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:29:46.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextG.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\ContextDb\\AppDbContextG.cs",
+              "RelativeDocumentMoniker": "ContextDb\\AppDbContextG.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\ContextDb\\AppDbContextG.cs",
+              "RelativeToolTip": "ContextDb\\AppDbContextG.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:59:31.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T18:02:18.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Services\\Impl\\PlayerService.cs",
+              "RelativeDocumentMoniker": "Services\\Impl\\PlayerService.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Services\\Impl\\PlayerService.cs",
+              "RelativeToolTip": "Services\\Impl\\PlayerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:00:33.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Services\\Interfaz\\IPlayerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaz\\IPlayerService.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Services\\Interfaz\\IPlayerService.cs",
+              "RelativeToolTip": "Services\\Interfaz\\IPlayerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:00:17.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Mappers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mappers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Mappers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Mappers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:51:02.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Repositories\\Interfaz\\IPlayerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaz\\IPlayerRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Repositories\\Interfaz\\IPlayerRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaz\\IPlayerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:23:29.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Repositories\\Impl\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Impl\\PlayerRepository.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Repositories\\Impl\\PlayerRepository.cs",
+              "RelativeToolTip": "Repositories\\Impl\\PlayerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:24:03.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerStat.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Models\\PlayerStat.cs",
+              "RelativeDocumentMoniker": "Models\\PlayerStat.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\Gambeta_Aficion\\Gambeta_Aficion\\Gambeta_Aficion\\Models\\PlayerStat.cs",
+              "RelativeToolTip": "Models\\PlayerStat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:55:11.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
